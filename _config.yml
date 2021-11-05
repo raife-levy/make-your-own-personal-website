@@ -20,7 +20,7 @@ nav-links:
   # for social links, go to the profile page and copy the URL
   # Example:
   - name: Instagram
-    url: https://instagram.com/myinstagramusername
+    url: https://instagram.com/test
     external: true
   ##################################################
 
@@ -28,7 +28,7 @@ nav-links:
   # remember that this will be visible to the entire internet
   # don't put an email address you would like to keep private
   - name: Email
-    url: mailto:myemail@website.com
+    url: mailto:hi@gmail.com
     external: true
   ###########################################
 
